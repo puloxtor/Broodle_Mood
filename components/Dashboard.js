@@ -72,11 +72,11 @@ export default function Dashboard() {
 
 
   const moods = {
-    '&*@#$': '😭',
-    'Sad': '🥲',
+    '&*@#$': '🤬',
+    'Sad': '😢',
     'Existing': '😶',
     'Good': '😊',
-    'Elated': '😍',
+    'Amazing': '😍',
   }
 
   useEffect(() => {
